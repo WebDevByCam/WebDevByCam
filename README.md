@@ -47,18 +47,6 @@
 
 ---
 
-### 🧱 Proyectos Destacados
-
-🚿 **SaaS de reservas para spas y peluquerías** – Sistema multi-tenant con Twilio & WhatsApp  
-🏢 **Coworking Booking Platform** – Reservas por hora y paquetes, dashboard + calendar sync  
-💎 **Emeraldsmiths E-commerce** – Tienda headless de joyería con Shopify API y Next.js  
-🏨 **Hotel Bella Suiza Campestre** – Web institucional + motor de reservas personalizado  
-
-🔗 [🌐 Portafolio Web](https://webdevbycam.com)  
-📁 [💼 Repositorios Destacados](https://github.com/WebDevByCam?tab=repositories)
-
----
-
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -90,7 +78,7 @@
   <a href="mailto:webdevbycam@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://webdevbycam.com" target="_blank">
+  <a href="https://www.webdevbycam.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://instagram.com/webdevbycam" target="_blank">
