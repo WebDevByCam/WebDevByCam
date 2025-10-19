@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Ejecuta todos los días
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # todos los días a las 00:00 UTC
+  workflow_dispatch:      # permitir ejecución manual
+
+permissions:
+  contents: write         # NECESARIO: permisos de escritura
 
 jobs:
   build:
@@ -14,10 +17,15 @@ jobs:
         with:
           github_user_name: WebDevByCam
           outputs: dist/github-contribution-grid-snake.svg
-      - name: Push to output branch
+
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake"
+          keep_history: true
+          user_name: "github-actions[bot]"
+          user_email: "41898282+github-actions[bot]@users.noreply.github.com"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
