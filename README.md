@@ -1,22 +1,22 @@
-<!-- 🌌 PERFIL README BY WEB DEV BY CAM -->
+<!-- 🌌 PROFILE README BY WEB DEV BY CAM -->
 
-<h1 align="center">✨ Hola, soy Camilo Betancourt ✨</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 React, Next.js, Node, Python | 🌍 Fundador de Web Dev By Cam</h3>
-
----
-
-### 👨‍💻 Sobre mí
-
-💫 Apasionado por crear **soluciones digitales que transforman negocios**.  
-🌎 Desde Villavicencio, Colombia 🇨🇴  
-🧠 Actualmente desarrollando **SaaS de reservas y gestión empresarial.**  
-⚙️ Me enfoco en **Next.js, Node.js, Express, TypeScript, Supabase y PostgreSQL.**  
-🎯 Busco impactar a través de **software útil, escalable y con diseño atractivo.**  
-💬 Siempre abierto a colaborar y compartir conocimiento.
+<h1 align="center">✨ Hi, I'm Camilo Betancourt ✨</h1>
+<h3 align="center">🚀 Full Stack Developer | 💻 React, Next.js, Node, Python | 🌍 Founder of Web Dev By Cam</h3>
 
 ---
 
-### 🚀 Stack Tecnológico
+### 👨‍💻 About Me
+
+💫 Passionate about creating **digital solutions that transform businesses**.  
+🌎 Based in Villavicencio, Colombia 🇨🇴  
+🧠 Currently building a **SaaS platform for booking and business management.**  
+⚙️ Focused on **Next.js, Node.js, Express, TypeScript, Supabase, and PostgreSQL.**  
+🎯 Driven to make an impact through **useful, scalable, and beautifully designed software.**  
+💬 Always open to collaborate, learn, and share knowledge with other developers.
+
+---
+
+### 🚀 Tech Stack
 
 <div align="center">
 
@@ -39,15 +39,15 @@
 
 ---
 
-### 🎨 Diseño y Branding
+### 🎨 Design & Branding
 
-✨ Minimalismo, UX intuitiva y velocidad sobre todo.  
-🎨 Combino tecnología + diseño para ofrecer experiencias **sencillas, modernas y potentes.**  
-🧩 Inspirado en sistemas como **Fresha, Kumbio, Shopify y Notion.**
+✨ Minimalism, intuitive UX, and performance above all.  
+🎨 I merge technology + design to create **simple, modern, and powerful experiences.**  
+🧩 Inspired by platforms like **Fresha, Kumbio, Shopify, and Notion.**
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 
 ---
 
-### 🐍 Mi gráfico de contribuciones (modo Snake 🧬)
+### 🐍 Contribution Graph (Snake Mode 🧬)
 
 <div align="center">
   
@@ -69,7 +69,7 @@
 
 ---
 
-### 🌐 Encuéntrame en
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/webdevbycam/" target="_blank">
@@ -88,15 +88,15 @@
 
 ---
 
-### 🧠 Frase que me representa
+### 🧠 Quote That Represents Me
 
-> “Construyo software que soluciona, simplifica y deja huella.” 💡
+> “I build software that solves problems, simplifies lives, and leaves a mark.” 💡
 
 ---
 
 <div align="center">
   
-🛠️ Hecho con ❤️ por **Camilo Betancourt** — *Web Dev By Cam*  
-🌟 _“Transforma tus ideas en productos digitales reales.”_
+🛠️ Built with ❤️ by **Camilo Betancourt** — *Web Dev By Cam*  
+🌟 _“Turning ideas into real digital products.”_
 
 </div>
