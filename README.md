@@ -1,18 +1,18 @@
 <!-- 🌌 PROFILE README BY WEB DEV BY CAM -->
 
-<h1 align="center">✨ Hi, I'm Camilo Betancourt ✨</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 React, Next.js, Node, Python | 🌍 Founder of Web Dev By Cam</h3>
+<h1 align="center">✨ Hi, I'm Camilo✨</h1>
+<h3 align="center">🚀 Full Stack Developer | 💻 React, Next.js, Node.js, Express.js, PostgreSQL | 🌍 Founder of Web Dev By Cam</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 💫 Passionate about creating **digital solutions that transform businesses**.  
-🌎 Based in Villavicencio, Colombia 🇨🇴  
+🌎 Based in Bogotá, Colombia 🇨🇴  
 🧠 Currently building a **SaaS platform for booking and business management.**  
-⚙️ Focused on **Next.js, Node.js, Express, TypeScript, Supabase, and PostgreSQL.**  
+⚙️ Focused on **Next.js, Node.js, Express.js, TypeScript, Supabase, and PostgreSQL.**  
 🎯 Driven to make an impact through **useful, scalable, and beautifully designed software.**  
-💬 Always open to collaborate, learn, and share knowledge with other developers.
+💬 Always open to collaborate, learn, and share knowledge with other people.
 
 ---
 
@@ -36,14 +36,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
----
-
-### 🎨 Design & Branding
-
-✨ Minimalism, intuitive UX, and performance above all.  
-🎨 I merge technology + design to create **simple, modern, and powerful experiences.**  
-🧩 Inspired by platforms like **Fresha, Kumbio, Shopify, and Notion.**
 
 ---
 
@@ -72,7 +64,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/webdevbycam/" target="_blank">
+  <a href="https://www.linkedin.com/in/camilo-betancourt-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:webdevbycam@gmail.com" target="_blank">
@@ -81,16 +73,13 @@
   <a href="https://www.webdevbycam.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/webdevbycam" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 ### 🧠 Quote That Represents Me
 
-> “I build software that solves problems, simplifies lives, and leaves a mark.” 💡
+> “I build software that solves problems and generate high impact” 💡
 
 ---
 
