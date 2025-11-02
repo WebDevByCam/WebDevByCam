@@ -1,7 +1,7 @@
 <!-- 🌌 PROFILE README BY WEB DEV BY CAM -->
 
 <h1 align="center">✨ Hi, I'm Camilo✨</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 React, Next.js, Node.js, Express.js, PostgreSQL | 🌍 Founder of Web Dev By Cam</h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 React, Next.js, Node.js, Express.js, PostgreSQL | 🌍 Web Dev By Cam's Founde</h3>
 
 ---
 
